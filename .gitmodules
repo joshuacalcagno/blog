@@ -2,3 +2,6 @@
 	path = public
 	url = https://github.com/joshuacalcagno/joshuacalcagno.github.io.git
 	branch = main
+[submodule "joshuacalcagnoblog/themes/hugo-theme-retrocss"]
+	path = joshuacalcagnoblog/themes/hugo-theme-retrocss
+	url = https://github.com/PhantomPixelDev/hugo-theme-retrocss.git
