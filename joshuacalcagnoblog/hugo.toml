@@ -1,0 +1,4 @@
+baseURL = 'https://joshuacalcagno.github.io/'
+locale = 'en-us'
+title = 'Welcome to my blog!'
+theme='hugo-theme-retrocss'
